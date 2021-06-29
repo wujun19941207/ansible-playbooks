@@ -1,5 +1,5 @@
 ---
-- hosts: test
+- hosts: all
   sudo: yes
   vars:
       apt_packages_ca:
